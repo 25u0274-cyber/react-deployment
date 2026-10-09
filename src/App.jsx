@@ -10,11 +10,10 @@ function App() {
 
       <main className="hero">
         <div className="card">
-          <h1>React CI Demo 🚀</h1>
+          <h1>Welcome to DevOps 🚀</h1>
 
           <p>
-            This is a demo React frontend created for testing
-            Continuous Integration.
+           Learn Devops,CI/CD,and automated deployment!
           </p>
 
           <div className="status">
